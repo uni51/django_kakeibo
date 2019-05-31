@@ -1,0 +1,8 @@
+*.sqlite3
+.idea
+*.less
+*.pyc
+
+fabfile.py
+
+static/
